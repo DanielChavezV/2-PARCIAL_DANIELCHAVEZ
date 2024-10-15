@@ -1,0 +1,211 @@
+[
+  {
+    "id": "1125014962",
+    "nombre": "Isabela",
+    "apellido": "Lobo Sáenz",
+    "fecha_nacimiento": "1985-03-12",
+    "genero": "Femenino",
+    "direccion": "Calle Principal 123",
+    "telefono": "328-121-3877",
+    "email": "isabela.lobo@gmail.com",
+    "especialidad": "Neurología"
+  },
+  {
+    "id": "1143474814",
+    "nombre": "Agustín",
+    "apellido": "Barón Cid",
+    "fecha_nacimiento": "1978-07-24",
+    "genero": "Masculino",
+    "direccion": "Avenida Norte 45",
+    "telefono": "310-197-2906",
+    "email": "agustin.baron@gmail.com",
+    "especialidad": "Radiología"
+  },
+  {
+    "id": "1174947036",
+    "nombre": "Alex",
+    "apellido": "del Morillo",
+    "fecha_nacimiento": "1990-01-16",
+    "genero": "Masculino",
+    "direccion": "Calle del Sol 567",
+    "telefono": "320-727-1157",
+    "email": "alex.morillo@gmail.com",
+    "especialidad": "Psiquiatría"
+  },
+  {
+    "id": "1122339132",
+    "nombre": "Noé",
+    "apellido": "Ribera",
+    "fecha_nacimiento": "1975-05-08",
+    "genero": "Masculino",
+    "direccion": "Calle Nueva 890",
+    "telefono": "321-538-2393",
+    "email": "noe.ribera@gmail.com",
+    "especialidad": "Cardiología"
+  },
+  {
+    "id": "1181934671",
+    "nombre": "Lino",
+    "apellido": "Bartolomé Pomares",
+    "fecha_nacimiento": "1982-09-13",
+    "genero": "Masculino",
+    "direccion": "Calle Sur 543",
+    "telefono": "312-622-5547",
+    "email": "lino.bartolome@gmail.com",
+    "especialidad": "Nefrología"
+  },
+  {
+    "id": "1143133480",
+    "nombre": "Esther Manuela",
+    "apellido": "Juárez Alcalá",
+    "fecha_nacimiento": "1977-11-22",
+    "genero": "Femenino",
+    "direccion": "Avenida del Norte 67",
+    "telefono": "319-458-7545",
+    "email": "esther.juarez@gmail.com",
+    "especialidad": "Geriatría"
+  },
+  {
+    "id": "1178235308",
+    "nombre": "Tatiana",
+    "apellido": "Salmerón Camps",
+    "fecha_nacimiento": "1983-02-15",
+    "genero": "Femenino",
+    "direccion": "Calle del Mar 456",
+    "telefono": "317-118-4276",
+    "email": "tatiana.salmeron@gmail.com",
+    "especialidad": "Ginecología"
+  },
+  {
+    "id": "1124774990",
+    "nombre": "Olivia",
+    "apellido": "del Bárcena",
+    "fecha_nacimiento": "1979-05-11",
+    "genero": "Femenino",
+    "direccion": "Avenida Central 234",
+    "telefono": "312-336-7814",
+    "email": "olivia.barcena@gmail.com",
+    "especialidad": "Gastroenterología"
+  },
+  {
+    "id": "1165585821",
+    "nombre": "Imelda",
+    "apellido": "de Gaya",
+    "fecha_nacimiento": "1984-08-09",
+    "genero": "Femenino",
+    "direccion": "Calle del Sol 987",
+    "telefono": "311-406-7526",
+    "email": "imelda.gaya@gmail.com",
+    "especialidad": "Geriatría"
+  },
+  {
+    "id": "1118896660",
+    "nombre": "Ignacio",
+    "apellido": "Royo-Baquero",
+    "fecha_nacimiento": "1980-06-17",
+    "genero": "Masculino",
+    "direccion": "Calle Luna 123",
+    "telefono": "317-252-2890",
+    "email": "ignacio.royo@gmail.com",
+    "especialidad": "Gastroenterología"
+  },
+  {
+    "id": "1123423704",
+    "nombre": "Víctor",
+    "apellido": "Benito-Nogués",
+    "fecha_nacimiento": "1976-10-21",
+    "genero": "Masculino",
+    "direccion": "Avenida del Norte 789",
+    "telefono": "310-178-6274",
+    "email": "victor.benito@gmail.com",
+    "especialidad": "Psiquiatría"
+  },
+  {
+    "id": "1159323658",
+    "nombre": "Porfirio Jose Francisco",
+    "apellido": "Pineda Juan",
+    "fecha_nacimiento": "1974-12-25",
+    "genero": "Masculino",
+    "direccion": "Calle Este 432",
+    "telefono": "320-100-5485",
+    "email": "porfirio.pineda@gmail.com",
+    "especialidad": "Reumatología"
+  },
+  {
+    "id": "1171667032",
+    "nombre": "Jennifer",
+    "apellido": "Naranjo Sandoval",
+    "fecha_nacimiento": "1986-04-30",
+    "genero": "Femenino",
+    "direccion": "Calle Primavera 234",
+    "telefono": "324-888-4092",
+    "email": "jennifer.naranjo@gmail.com",
+    "especialidad": "Oncología"
+  },
+  {
+    "id": "1130698277",
+    "nombre": "Iker",
+    "apellido": "Bartolomé Goicoechea",
+    "fecha_nacimiento": "1981-11-19",
+    "genero": "Masculino",
+    "direccion": "Calle Otoño 345",
+    "telefono": "324-677-9000",
+    "email": "iker.bartolome@gmail.com",
+    "especialidad": "Otorrinolaringología"
+  },
+  {
+    "id": "1146064425",
+    "nombre": "Chita",
+    "apellido": "Tovar Reina",
+    "fecha_nacimiento": "1987-07-14",
+    "genero": "Femenino",
+    "direccion": "Calle Invierno 456",
+    "telefono": "313-865-7393",
+    "email": "chita.tovar@gmail.com",
+    "especialidad": "Psiquiatría"
+  },
+  {
+    "id": "1186500516",
+    "nombre": "Guiomar",
+    "apellido": "Samper",
+    "fecha_nacimiento": "1972-08-05",
+    "genero": "Femenino",
+    "direccion": "Avenida Sur 876",
+    "telefono": "326-714-2856",
+    "email": "guiomar.samper@gmail.com",
+    "especialidad": "Ginecología"
+  },
+  {
+    "id": "1162453263",
+    "nombre": "Eufemia",
+    "apellido": "Vega",
+    "fecha_nacimiento": "1983-03-18",
+    "genero": "Femenino",
+    "direccion": "Calle Viento 567",
+    "telefono": "327-748-2539",
+    "email": "eufemia.vega@gmail.com",
+    "especialidad": "Psiquiatría"
+  },
+  {
+    "id": "1178215944",
+    "nombre": "Marta",
+    "apellido": "Manjón-Quintana",
+    "fecha_nacimiento": "1979-02-20",
+    "genero": "Femenino",
+    "direccion": "Calle Agua 678",
+    "telefono": "313-151-5389",
+    "email": "marta.manjon@gmail.com",
+    "especialidad": "Geriatría"
+  },
+  {
+    "id": "1133675406",
+    "nombre": "Nazario",
+    "apellido": "Alberto-Herrero",
+    "fecha_nacimiento": "1976-06-30",
+    "genero": "Masculino",
+    "direccion": "Avenida Sol 123",
+    "telefono": "310-450-1360",
+    "email": "nazario.alberto@gmail.com",
+    "especialidad": "Urología"
+  }
+]
